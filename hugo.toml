@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://christocracy.org"
 languageCode = "en-us"
 title = "Christocracy"
 theme = "hugo-theme-relearn"
