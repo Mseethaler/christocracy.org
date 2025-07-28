@@ -1,0 +1,23 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Christocracy"
+theme = "hugo-theme-relearn"
+
+[params]
+  themeVariant = "zen-dark"
+  themeVariantSwitcher = true
+  alwaysopen = "none"
+  disableLandingPageIcon = false
+  disableSectionMenuIcons = false
+  showVisitedLinks = true
+  
+[params.opengraph]
+  enable = true
+  
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ['html', 'rss', 'print']
+  page = ['html', 'rss', 'print']
+  section = ['html', 'rss', 'print']

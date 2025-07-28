@@ -1,0 +1,22 @@
+baseURL = "http://localhost/"
+languageCode = "en-us"
+title = "Christocracy"
+theme = "hugo-theme-relearn"
+
+[params]
+  themeVariant = "zen-dark"
+  themeVariantSwitcher = true
+  ordersectionsby = "weight"
+  showVisitedLinks = true
+  alwaysopen = true
+  custom_css = ["css/custom.css"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+

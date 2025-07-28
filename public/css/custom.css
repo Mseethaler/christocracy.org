@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'SBL Greek';
+  src: url('/fonts/SBLGreek.woff2') format('woff2'),
+       url('/fonts/SBLGreek.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SBL Hebrew';
+  src: url('/fonts/SBLHebrew.woff2') format('woff2'),
+       url('/fonts/SBLHebrew.woff') format('woff');
+  font-display: swap;
+}
+
+.greek,
+#gdoc-content .greek,
+#gdoc-content p.greek,
+#gdoc-content span.greek {
+  font-family: 'SBL Greek', serif !important;
+  font-size: 1.5em;
+}
+
+.hebrew,
+#gdoc-content .hebrew,
+#gdoc-content p.hebrew,
+#gdoc-content span.hebrew {
+  font-family: 'SBL Hebrew', serif !important;
+  direction: rtl;
+  unicode-bidi: embed;
+  font-size: 1.7em;
+}
+
+
+
