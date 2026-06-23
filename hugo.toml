@@ -10,10 +10,46 @@ theme = "hugo-theme-relearn"
   disableLandingPageIcon = false
   disableSectionMenuIcons = false
   showVisitedLinks = true
-  
-[params.opengraph]
-  enable = true
-  
+
+  [params.opengraph]
+    enable = true
+
+  [[params.boxStyle]]
+    identifier = 'translation'
+    title = 'Translation'
+    color = '#1f6feb'        # blue — the text itself
+    icon = 'language'
+
+  [[params.boxStyle]]
+    identifier = 'sense'
+    title = 'Sense'
+    color = '#8957e5'        # purple — grammatical-historical meaning
+    icon = 'magnifying-glass'
+
+  [[params.boxStyle]]
+    identifier = 'explanation'
+    title = 'Explanation'
+    color = '#2da44e'        # green — exposition / doctrine
+    icon = 'book-open'
+
+  [[params.boxStyle]]
+    identifier = 'application'
+    title = 'Application'
+    color = '#bf8700'        # amber — use / practice
+    icon = 'hand-point-right'
+
+  [[params.boxStyle]]
+    identifier = 'error'
+    title = 'Error'
+    color = '#cf222e'        # red — flagged misreading / textual corruption
+    icon = 'triangle-exclamation'
+
+  [[params.boxStyle]]
+    identifier = 'correction'
+    title = 'Correction'
+    color = '#1b7c83'        # teal — the corrective reading
+    icon = 'pen-to-square'
+
 [markup.goldmark.renderer]
   unsafe = true
 
