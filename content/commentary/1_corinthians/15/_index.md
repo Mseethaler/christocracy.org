@@ -24,7 +24,7 @@ postive declaration of the truth.
 
 <p class="greek">Νυνὶ δὲ Χριστὸς ἐγήγερται ἐκ νεκρῶν ἀπαρχὴ τῶν κεκοιμημένων.</p>
 
-{{% badge style="info" %}}Translation:{{% /badge %}}
+{{% translation /%}}
 
 
 > But now Christ has been raised (perfect passive) from the dead — first fruits of
@@ -42,7 +42,7 @@ particularly in view here.
 
 <p class="greek">ἐπειδὴ γὰρ διʼ ἀνθρώπου θάνατος, καὶ διʼ ἀνθρώπου ἀνάστασις νεκρῶν.</p>
 
-{{% badge style="info" %}}Translation:{{% /badge %}}
+{{% translation /%}}
 
 > For since through a man death, also through a man resurrection of the dead.
 
@@ -65,7 +65,7 @@ came, it follows that the defeat of death comes the same way.
 
 <p class="greek">ὥσπερ γὰρ ἐν τῷ Ἀδὰμ πάντες ἀποθνῄσκουσιν, οὕτως καὶ ἐν τῷ Χριστῷ πάντες ζῳοποιηθήσονται.</p>
 
-{{% badge style="info" %}}Translation:{{% /badge %}}
+{{% translation /%}}
 
 > For just as/in the same way that in Adam (those under the sphere of authority,
 > representation, headship of Adam) all received his death, thus also in the
@@ -78,7 +78,7 @@ The apostle repeats the statement, but this time in the form of logical
 grounding. *For just as in the same way*, leading to further elaboration of his
 previously stated point. 
 
-In the Christ, all will have been made alive — as in, when the harvest comes,
+  In the Christ, all will have been made alive — as in, when the harvest comes,
 these under Christ, the new man, the second Adam, will passively receive the
 enduring resurrection of peach and joy.
 
@@ -89,7 +89,7 @@ events, and necessary prerequisites.
 
 <p class="greek">Ἕκαστος δὲ ἐν τῷ ἰδίῳ τάγματι· ἀπαρχὴ Χριστός, ἔπειτα οἱ τοῦ Χριστοῦ ἐν τῇ παρουσίᾳ αὐτοῦ,</p>
 
-{{% badge style="info" %}}Translation:{{% /badge %}}
+{{% translation /%}}
 
 > But each in his own class/group; firstfruits Christ, then those of the Christ
 > in His coming/presence,
@@ -98,13 +98,13 @@ events, and necessary prerequisites.
 
 Paul explains that the resurrection which Christ has brought to His people happens in two stages, at different times for different classes. The first being Christ, His public resurrection being the means by which the Head has brought life to the body, and the second class being those who belong to Him, namely, those under His covenantal headship, namely, believers.
 
-The second resurrection comes at His <p class="greek">παρουσίᾳ</p>, namely, His
+  The second resurrection comes at His <p class="greek">παρουσίᾳ</p>, namely, His
 arrival. This refers to His bodily arrival at the end of history, preceding the
 general resurrection and final judgment. This is the same "hour" of which Jesus
 speaks in John 5:28; it is the "last day" spoken of in John 6:40, where the
 believer is said to be raised. It is the returning of Christ to sit on His
 through and to judge all the nations, inagurating the eternal state: Matt
-25:31 ff.
+25:31ff.
 
 {{% error /%}}
 
@@ -123,7 +123,65 @@ classes together, beyond those already cited. Dan 12:1, the kingdom parables of
 Matt 13, Acts 24:15, 2 Thes 1, Matt 16:27, Rom 2:16, 1 Cor 4:5, all of which
 build a cumulative case for this timeline. 
 
-But we need look beyond this present chapter, which will be dealt with in its
+  But we need look beyond this present chapter, which will be dealt with in its
 proper order. The resurrection of the believers described here is also coincident with the "defeat of death", after which comes "the end". Things which cannot be reconciled with the common premillennial timeline. 
- 
+
+# 24
+
+<p class="greek">εἶτα τὸ τέλος, ὅταν παραδιδῷ τὴν βασιλείαν τῷ θεῷ καὶ πατρί, ὅταν καταργήσῃ πᾶσαν ἀρχὴν καὶ πᾶσαν ἐξουσίαν καὶ δύναμιν.</p>
+
+{{% translation /%}}
+
+> Then the end, when He hands over the kingdom to the God and Father, when He
+> has abolished every ruler and all authority and power.
+
+{{% sense /%}}
+
+After the resurrection of the believers, then, at time is the <p class="gree">τέλος</p>, the end, or completion. This completion being when Christ hands over the kingdom to God the Father, after Christ has abolished all wicked and opposed rebellious earthly rules and spirits, systems, and powers, namely everything that lifts itself up in rebellion against the Lord, and rages vainly against the Christ.
+
+{{% explanation /%}}
+
+The Apostle reveals the progression of history and its conclusion in these
+verses and those following; namely, that After the bodily return of Christ, and
+the resurrection of the believers, then all things are complete, and the
+kingdom, which Has been given to the Son (Matt 28:18ff), will then be handed
+over back to the Father, and the believers will submit to Christ, as the Son
+does to the Father, and thus the cosmos will be fully reconciled in every outward and inward form to the blessed Creator and Father of all, the spring and root of the Godhead.
+
+  This will not be done until the Son has successfully conquered and subjected
+every enemy in history. For it is only after the subjection of all of these,
+that He comes to destroy death. 
+
+{{% error /%}}
+
+Those who pestiferously deny Christ's historical conquest, and maintain that the
+kingdom of God will have no victory in history until after the bodily return of
+Christ, twist the Scriptures here, and fit within the <p
+  class="gree">τέλος</p>,mentioned here by Paul, not the "handing over of the
+kingdom" as the grammar here defines, but instead, stuff in 1000 years and an
+additional and separate resurrection of the reprobate. 
+
+   Such an error is one which, suffices to say, lacks all evidence from the 
+text, and revelatory only of an immovable presupposition on behalf of its
+authors. 
+
+{{% correction /%}}
+
+Paul here defines the <p class="gree">τέλος</p> to be the period of the handing
+over of the kingdom from the Son to the Father. Such is the plain grammar. The exegetical extremities mentioned would not be resorted to by such authors, if there was any semblance of support for
+their position in this text. As there is not, instead we receive a twisting of
+the pure word.  If there is support for such things, it must be found elsewhere. 
+
+# 25-26
+
+<p class="greek">δεῖ γὰρ αὐτὸν βασιλεύειν ἄχρι οὗ θῇ πάντας τοὺς ἐχθροὺς ὑπὸ τοὺς πόδας αὐτοῦ. ἔσχατος ἐχθρὸς καταργεῖται ὁ θάνατος· </p>
+
+{{% translation /%}}
+
+> For it is necessary that He must reign until which He puts all the enemies
+> under the feed of Him.
+> [The] last enemy to be destroyed — The death.
+
+
+
 
