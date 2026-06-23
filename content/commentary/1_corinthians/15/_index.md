@@ -7,12 +7,13 @@ weight = 1
 [params]
     menuPre = '<i class="fa-solid fa-chess-king"></i> '
 +++
-{{% badge style="translation" %}}Translation{{% /badge %}}
-{{% badge style="sense" %}}Sense{{% /badge %}}
-{{% badge style="explanation" %}}Explanation{{% /badge %}}
-{{% badge style="application" %}}Application{{% /badge %}}
-{{% badge style="error" %}}Error(Jn 1:1){{% /badge %}}
-{{% badge style="correction" %}}Correction{{% /badge %}}
+
+{{% translation /%}}
+{{% sense /%}}
+{{% explanation /%}}
+{{% application /%}}
+{{% error /%}}
+{{% correction /%}}
 
 
 {{% badge style="info" %}}Translation:{{% /badge %}}
