@@ -1,6 +1,7 @@
 {{- partial "shortcodes/badge.html" (dict
   "page" .Page
-  "style" "translation"
+  "style" .Name
   "title" " "
-  "content" "Translation"
+  "content" (.Name | title)
 ) -}}
+{{- with .Inner }}{{ . }}{{ end -}}
