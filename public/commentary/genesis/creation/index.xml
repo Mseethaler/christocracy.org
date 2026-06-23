@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Creation :: Christocracy</title>
-    <link>http://localhost:1313/commentary/genesis/creation/index.html</link>
-    <description>In the beginning God created.&#xA;CautionMagenta ImportantCyan InfoBlue NoteOrange TipGreen WarningRed&#xA;test&#xA;p class:&#xA;ἐν ἀρχῇ ἦν ὁ λόγος&#xA;בְּרֵאשִׁית בָּרָא אֱלֹהִים&#xA;End of p class. span class This is ἐν ἀρχῇ in Greek.&#xA;This is בְּרֵאשִׁית בָּרָא אֱלֹהִים in Hebrew. end of span class&#xA;no class:&#xA;ἀρχῇ ἦν ὁ λόγος end of no calss&#xA;ἐν ἀρχῇ ἦν ὁ λόγος&#xA;ἐν ἀρχῇ ἦν ὁ λόγος&#xA;בְּרֵאשִׁית בָּרָא אֱלֹהִים&#xA;ok, so this is a test, say I am writing here.</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/commentary/genesis/creation/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Creation :: Christocracy</title><link>https://treatise.christocracy.org/commentary/genesis/creation/index.html</link><description>In the beginning God created the heavens and the earth.
+CautionMagenta ImportantCyan InfoBlue NoteOrange TipGreen WarningRed
+test
+p class:
+ἐν ἀρχῇ ἦν ὁ λόγος
+בְּרֵאשִׁית בָּרָא אֱלֹהִים
+End of p class. span class This is ἐν ἀρχῇ in Greek.
+This is בְּרֵאשִׁית בָּרָא אֱלֹהִים in Hebrew. end of span class
+no class:
+ἀρχῇ ἦν ὁ λόγος end of no calss
+ἐν ἀρχῇ ἦν ὁ λόγος
+ἐν ἀρχῇ ἦν ὁ λόγος</description><generator>Hugo</generator><language>en-us</language><lastBuildDate/><atom:link href="https://treatise.christocracy.org/commentary/genesis/creation/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

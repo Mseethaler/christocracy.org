@@ -8,7 +8,7 @@ weight = 1
     menuPre = '<i class="fas fa-fire"></i> '
 +++
 
-In the beginning God created.
+In the beginning God created the heavens and the earth.
 
 {{% badge style="caution" %}}Magenta{{% /badge %}}
 {{% badge style="important" %}}Cyan{{% /badge %}}

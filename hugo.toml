@@ -1,4 +1,4 @@
-baseURL = "https://christocracy.org/"
+baseURL = "https://treatise.christocracy.org/"
 languageCode = "en-us"
 title = "Christocracy"
 theme = "hugo-theme-relearn"
