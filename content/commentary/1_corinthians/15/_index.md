@@ -215,7 +215,7 @@ of Caanan, where Christ will oversee the reinstituted Mosaical system.
 Covenant passage in all the New Covenant. Every time it is quoted in reference
 to the reign mentioned, the assumption is that this reign has begun. Heb
 10:12-13 states that Christ sat down and waits at that place for His enemies to
-be made a footstool for His feet. In Heb 1:13 - 2:9, the author of Hebrews[^]
+be made a footstool for His feet. In Heb 1:13 - 2:9, the author of Hebrews[^2]
 states that though we don't yet see the subjection of all the enemies, we see
 Christ crowned and seated, according to the Psalm. We await for the subjection
 through the progression of history and the great commission. 
