@@ -98,7 +98,7 @@ events, and necessary prerequisites.
 
 Paul explains that the resurrection which Christ has brought to His people happens in two stages, at different times for different classes. The first being Christ, His public resurrection being the means by which the Head has brought life to the body, and the second class being those who belong to Him, namely, those under His covenantal headship, namely, believers.
 
-  The second resurrection comes at His <p class="greek">παρουσίᾳ</p>, namely, His
+  The second resurrection comes at His παρουσίᾳ, namely, His
 arrival. This refers to His bodily arrival at the end of history, preceding the
 general resurrection and final judgment. This is the same "hour" of which Jesus
 speaks in John 5:28; it is the "last day" spoken of in John 6:40, where the
@@ -137,7 +137,7 @@ proper order. The resurrection of the believers described here is also coinciden
 
 {{% sense /%}}
 
-After the resurrection of the believers, then, at time is the <p class="gree">τέλος</p>, the end, or completion. This completion being when Christ hands over the kingdom to God the Father, after Christ has abolished all wicked and opposed rebellious earthly rules and spirits, systems, and powers, namely everything that lifts itself up in rebellion against the Lord, and rages vainly against the Christ.
+After the resurrection of the believers, then, at time is the τέλος, the end, or completion. This completion being when Christ hands over the kingdom to God the Father, after Christ has abolished all wicked and opposed rebellious earthly rules and spirits, systems, and powers, namely everything that lifts itself up in rebellion against the Lord, and rages vainly against the Christ.
 
 {{% explanation /%}}
 
@@ -180,8 +180,64 @@ the pure word.  If there is support for such things, it must be found elsewhere.
 
 > For it is necessary that He must reign until which He puts all the enemies
 > under the feed of Him.
-> [The] last enemy to be destroyed — The death.
+> [The] last enemy to be destroyed — The death;
+
+{{% explanation /%}}
+
+  Paul states that, according to the necessary decree of God, that Christ must
+continue His present reign until the subjection of all His enemies, viz, the
+rules, and authorities and powers. He will continue His present reign until they
+are subdued, and then the last enemy to be destroyed, i.e. the resurrection at
+His second coming, will occur. 
+ 
+
+Firstly, the reign of Christ must be taken as present and occurring now. For
+Christ declares plainly that all things are put under His authority: Matt 28:18,
+and has given Him all judgment, John 5:22. In express words He is called the
+ruler of the kings of the earth, and that He has made the Church to be a kingdom
+of priests, Rev 1:6. 
+
+{{% error /%}}
+
+Now, some who still desire to maintain a future millennial kingdom, have been so
+bold as to deny the present reign of Christ in this passage, that it must be speaking of a future reign which has not yet come; or if they acknowledge His reign, they
+deny that Christ on the throne of David, and reigning as the prophesied Christ — that He is
+reigning as God, but not as the God man. This blasphemous opinion is maintained
+against the Scripture, and comes from a carnal understanding of the Kingdom of
+God, that it cannot be fulfilled by the Godman reigning from the right hand of
+the Father over the cosmos, but instead, requires a rebuilt temple in the land
+of Caanan, where Christ will oversee the reinstituted Mosaical system.
+
+{{% correction /%}}
+
+1. The passage quoted here in 1 Cor 15 is Psalm 110, which is the most quoted Old
+Covenant passage in all the New Covenant. Every time it is quoted in reference
+to the reign mentioned, the assumption is that this reign has begun. Heb
+10:12-13 states that Christ sat down and waits at that place for His enemies to
+be made a footstool for His feet. In Heb 1:13 - 2:9, the author of Hebrews^[1]
+states that though we don't yet see the subjection of all the enemies, we see
+Christ crowned and seated, according to the Psalm. We await for the subjection
+through the progression of history and the great commission. 
+
+2. Furthermore, in Acts 2, in Peter's sermon, Jesus is expressly taught to be on
+the throne of David. This is a place where much quibbling and twisting of
+Scripture has been resorted to, in order to impute to Peter subtle and ingenious 
+reasons, instead of the very evident plain speech which he makes use of. The
+premise being that the Lord promised to raise up a seed to sit on the throne of
+David, and the conclusion being that therefore, Jesus has been made both Lord
+and Christ. Unless the Apostle is guilty of sophisms, and deception, or is
+simply mistaken, the conclusion is the fulfillment of the premise. 
+
+3. Isa 9:6-7 is a prophecy about the birth of the Messiah, which states that the
+   child born will sit upon the throne of David <p class="hebrew">מֵעַתָּה֙ וְעַד־עוֹלָ֔ם</p>
+   i.e. from that point and forever more. 
 
 
 
 
+
+
+
+
+
+[^1]: Paul
