@@ -1,11 +1,11 @@
 +++
-title = 'He must reign UNTIL...'
+title = '20-26; He must reign UNTIL...'
 date = 2025-07-23T16:31:13-04:00
 draft = false
 weight = 1
 
-[params]
-    menuPre = '<i class="fa-solid fa-chess-king"></i> '
+#[params]
+# menuPre = '<i class="fa-solid fa-chess-king"></i> '
 +++
 
 {{% translation /%}}
@@ -185,7 +185,8 @@ the pure word.  If there is support for such things, it must be found elsewhere.
 {{% explanation /%}}
 
   Paul states that, according to the necessary decree of God, that Christ must
-continue His present reign until the subjection of all His enemies, viz, the
+continue His present reign until(marker of continuous extent of time up to a
+  point[^BDAG]) the subjection of all His enemies, viz, the
 rules, and authorities and powers. He will continue His present reign until they
 are subdued, and then the last enemy to be destroyed, i.e. the resurrection at
 His second coming, will occur. 
@@ -214,7 +215,7 @@ of Caanan, where Christ will oversee the reinstituted Mosaical system.
 Covenant passage in all the New Covenant. Every time it is quoted in reference
 to the reign mentioned, the assumption is that this reign has begun. Heb
 10:12-13 states that Christ sat down and waits at that place for His enemies to
-be made a footstool for His feet. In Heb 1:13 - 2:9, the author of Hebrews^[1]
+be made a footstool for His feet. In Heb 1:13 - 2:9, the author of Hebrews[^Paul]
 states that though we don't yet see the subjection of all the enemies, we see
 Christ crowned and seated, according to the Psalm. We await for the subjection
 through the progression of history and the great commission. 
@@ -232,12 +233,38 @@ simply mistaken, the conclusion is the fulfillment of the premise.
    child born will sit upon the throne of David <p class="hebrew">מֵעַתָּה֙ וְעַד־עוֹלָ֔ם</p>
    i.e. from that point and forever more. 
 
+4. When Christ came into the world, the angel announced plainly that it was for
+   the purpose of ruling eternally on the throne of David: Luke 1:32-33. 
+
+5. Christ allowed for Himself to be declared the present occupant of the throne
+   of David: Matt 21:9
+
+Evidence could continue to be supplied, but suffice it for this passage
+conclusively to see that Paul's declaration of Christ's reign is not future, nor expectant,
+but present. If Christ were to await to begin His reign in any sense until after His return,
+then death would not be the last enemy defeated. No, but Christ reigns, and
+subdues His enemies, and then after the subjection of them all, He returns,
+defeating death, and that is the time when His peculiar reign does come to an
+end, only in that He hands over His kingdom back to the Father, that God will be
+all in all.
+
+For, as Paul will declare later in the chapter, when the believer receives the
+resurrection (vs. 54) that is the time when death has been defeated. To
+maintain, that after death has been defeated, there is still a thousand years of
+earthly sin and rebellion, only then to be a resurrection and defeat of death,
+is to contradict the Apostle and turn his presentation of the truth here into
+nonsense.
+
+{{% application /%}}
+
+While we are battered about on all sides but the high and lofty thoughts of man,
+who boast in sexual immorality, take pride in their sin, and wipe their mouth as
+if they have done nothing wrong; when we see the tides of injustice and
+iniquities in high places, the Christian finds refuge in this thought: that HE
+MUST REIGN UNTIL He puts His enemies under His feet. He will continue to rule in
+the midst of His enemies, and that every enemy of Christ will be subdued in
+history, before He returns to set His church free from the tyranny of indwelling
+sin, and death. 
 
 
 
-
-
-
-
-
-[^1]: Paul
