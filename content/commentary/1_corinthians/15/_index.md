@@ -186,7 +186,7 @@ the pure word.  If there is support for such things, it must be found elsewhere.
 
   Paul states that, according to the necessary decree of God, that Christ must
 continue His present reign until(marker of continuous extent of time up to a
-  point[^BDAG]) the subjection of all His enemies, viz, the
+  point[^1]) the subjection of all His enemies, viz, the
 rules, and authorities and powers. He will continue His present reign until they
 are subdued, and then the last enemy to be destroyed, i.e. the resurrection at
 His second coming, will occur. 
@@ -215,7 +215,7 @@ of Caanan, where Christ will oversee the reinstituted Mosaical system.
 Covenant passage in all the New Covenant. Every time it is quoted in reference
 to the reign mentioned, the assumption is that this reign has begun. Heb
 10:12-13 states that Christ sat down and waits at that place for His enemies to
-be made a footstool for His feet. In Heb 1:13 - 2:9, the author of Hebrews[^Paul]
+be made a footstool for His feet. In Heb 1:13 - 2:9, the author of Hebrews[^]
 states that though we don't yet see the subjection of all the enemies, we see
 Christ crowned and seated, according to the Psalm. We await for the subjection
 through the progression of history and the great commission. 
@@ -267,4 +267,5 @@ history, before He returns to set His church free from the tyranny of indwelling
 sin, and death. 
 
 
-
+[^1]: BDAG
+[^2]: Paul
