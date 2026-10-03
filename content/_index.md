@@ -5,7 +5,7 @@ chapter = true
 weight = 1
 +++
 
-The Faith, Once-For-All Handed Down to the Saints.
+The Faith, Once-For-All Handed Down to the Saints. test.
 
 Greetings, My name is Michael Seethaler, I am a follower of Christ. This website exists as an attempt to capture and pass on the things the Lord has taught me. It is a work in progress, consider it an ongoing experiment. 
 
