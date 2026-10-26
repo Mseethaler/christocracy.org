@@ -1,6 +1,6 @@
 +++
 title = 'Topical'
-weight = 2
+weight = 3
 [params]
     menuPre = '<i class="fa-solid fa-fire"></i> '
 +++

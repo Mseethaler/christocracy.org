@@ -1,7 +1,7 @@
 +++
 title = 'Obedience of the Nations'
 draft = false
-weight = 1
+weight = 2
 [params]
     menuPre = '<i class="fa-solid fa-book-bible"></i> '
     
