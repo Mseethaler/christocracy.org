@@ -58,4 +58,4 @@ theme = "hugo-theme-relearn"
   page = ['html', 'rss', 'print']
   section = ['html', 'rss', 'print']
 
-# icons are from the font awesome library
+# icons are from the font awesome library, fontawesome.com
