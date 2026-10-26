@@ -10,8 +10,6 @@ weight = 1
 
 <!--- This is a single-line comment --->
 
-# Obedience of the Nations
-
 ## Purpose
 
 The Lord has commanded us to disciple the nations, teaching them to obey
