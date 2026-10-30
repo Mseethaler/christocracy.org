@@ -1,5 +1,5 @@
 +++
-title = 'Obedience of the Nations'
+title = 'The Obedience of the Nations'
 draft = false
 weight = 2
 [params]
