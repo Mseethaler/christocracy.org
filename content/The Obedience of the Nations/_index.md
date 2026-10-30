@@ -72,7 +72,7 @@ property of a granter by a trustee for the purpose of administration that proper
 Ezek 45:7-9, 46:16-18, 1 Chron 27:25-31
 
 2. Christ, as redeemer, established the church. The church's purpose is to
-shepherd the chosen flock of God into eternal life. The primary means of grace given to the Church is the Word of God and the sacraments. The object governed is the congregation of believers.
+gather the elect from the nations and shepherd the chosen flock of God into eternal life (WCF 25). The primary means of grace given to the Church is the Word of God and the sacraments. The object governed is the congregation of believers.
 
 > For the grace of God hath appeared, bringing salvation to all men,
 
@@ -117,6 +117,10 @@ sanctified. They are ranked generally by degree, the principle of their rank
 is prior dependence, at least formally, but in the actualization of things, order can vary. As the waters of life from from the temple of worship, 
 more and more of the nation is submerged in the vivification and regeneraiton from the fountain of life.
 
+0. Missions: the gathering of the elect from the nations by the preaching of the
+   Gospel, baptizing them and gathering them into the Church. (Mt. 28:19-20, Rom
+10:14-15)
+
 1. Worship: The weekly approach to the throne of God by the covenant of
    grace in the power of Christ's blood. Weekly Sabbath worship on the
    Lord's day.
@@ -136,13 +140,14 @@ more and more of the nation is submerged in the vivification and regeneraiton fr
 6. Public order: the correct administration of justice and the enactment of just laws to govern the body politic.
 
 7. Public Culture: Expressing and reproducing the faith and its
-   fruits skillfully in public and to foreign nations.
+   fruits skillfully in public and commending them to foreign nations.
 
 Each domain is a genus, with various species, viz. fields. The domains are
 each categorized upon a single principle.
 
 | Domain | Principle of Categorization | Fields |
 |---|---|---|
+| Missions* | Act of the gathering (Rom 10:14-15) | Sending; proclamation; apologetics; baptizing and receiving; church planting |
 |Worship| Elements of Worship (WCF 21) | Prayer and thanksgiving; reading
 of Scripture; preaching and hearing the Word; singing psalms and hymns and
 spritual songs; sacriments; observing the Lord's day, oaths, vows, fasts,
@@ -165,7 +170,10 @@ restitution and punishment; common defense; arbitration |
 visual arts; architecture; film and screen; digital media; festivals and
 custom; sports and recreation |
 
-*level of government, viz. local, county, state, national, is an attribute
+*Scope, viz. inward (this nation) or outward (foreign nations), is an
+attribute of each Missions field. 
+
+**Level of government, viz. local, county, state, national, is an attribute
 of each field, not it's own species.
 
 ## Institutions
@@ -199,7 +207,7 @@ principle directs it.
 
 ## The Matrix
 
-- **Rows** are the four governments. **Columns** are the seven domains, in degree order.
+- **Rows** are the four governments. **Columns** are the domains, in degree order from 0 to 7.
 - **Each cell** is formal respect: how one government engages one domain.
 - **Means** within a cell are **direct** (the government acts by its own office) or **instrumental** (it acts through an association).
 - **Relation** of a government to a domain:
@@ -220,6 +228,7 @@ The confederacy is a covenanted union of free, self-governing members (persons, 
 
 | Term | Meaning |
 |---|---|
+| Scope | Whether a Missions field is directed inward (this nation) or outward (foreign nations) |
 | Dominion | The one mandate to rule creation under God (Gen 1:28) |
 | Domain | A category of life in which obedience is rendered; a matrix column |
 | Field | A species of a domain: a specific area of life within it |

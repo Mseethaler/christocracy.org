@@ -1,11 +1,11 @@
 +++
-title = 'Economy'
-date = 2026-10-03T16:31:13-04:00
+title = 'Missions'
+date = 2026-10-30T16:31:13-04:00
 draft = false
-weight = 2
+weight = 0
 
 #[params]
 # menuPre = '<i class="fa-solid fa-chess-king"></i> '
 +++
 
-temp
+test

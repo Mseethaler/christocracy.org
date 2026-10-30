@@ -11,16 +11,28 @@ Relation key: **P** principal, **C** constitutive, **R** regulative, **N** none.
 
 ## Genus: domains
 
-| | 1. Worship | 2. Education | 3. Economy | 4. Mercy | 5. Scholarship | 6. Public order | 7. Public culture |
-|---|---|---|---|---|---|---|---|
-| **Self** | P Secret worship and Lord's Day keeping | P+C Diligent learner | P+C Productive Labor in a vocation | P+C Give from abundance | P+C Think God's thoughts after Him; seek out what is concelaed; dominate creation | P+C Self-government, citizenship, office | P+C Make the true good and beautiful to glorify God |
-| **Family** | P Household worship led by the head | P+C Parents hold the authority to educate | P+C Household dominion and inheritance | P+C Care for your own first; hospitality | C Raise, fund and send scholars | C Households are the base of the polity | P+C Household song, story and feast |
-| **Church** | P Public worship in the means of grace | P+R Catechize covenant children; equip fathers | R Teach the ethics of labor; discipline fraud | P The diaconate | P+R Guard doctrine; train ministers; refute error | R Prophetic witness; pray for rulers; discipline members | R Teach truth and beauty and goodness |
-| **Civil** | R Protect and nourish the church; promote the true religion | R Protect parental liberty; promote true education | R Enforce just weights and measures, contracts, restitution | N Promote mercy through the family and Church | R Protect inquiry; punish blasphemy | P Justice as defined by God's law | R Punish libel, fraud and obscenity and blasphemy |
+| | 0. Missions | 1. Worship | 2. Education | 3. Economy | 4. Mercy | 5. Scholarship | 6. Public order | 7. Public culture |
+|---|---|---|---|---|---|---|---|---|
+| **Self** | P Witness to all; ready to give an answer | P Secret worship and Lord's Day keeping | P+C Diligent learner | P+C Productive Labor in a vocation | P+C Give from abundance | P+C Think God's thoughts after Him; seek out what is concelaed; dominate creation | P+C Self-government, citizenship, office | P+C Make the true good and beautiful to glorify God |
+| **Family** | P+C Household witness; support those sent | P Household worship led by the head | P+C Parents hold the authority to educate | P+C Household dominion and inheritance | P+C Care for your own first; hospitality | C Raise, fund and send scholars | C Households are the base of the polity | P+C Household song, story and feast |
+| **Church** | P Send, preach, baptize, plant | P Public worship in the means of grace | P+R Catechize covenant children; equip fathers | R Teach the ethics of labor; discipline fraud | P The diaconate | P+R Guard doctrine; train ministers; refute error | R Prophetic witness; pray for rulers; discipline members | R Teach truth and beauty and goodness |
+| **Civil** | R Protect the liberty of the Gospel; no sword for conversion | R Protect and nourish the church; promote the true religion | R Protect parental liberty; promote true education | R Enforce just weights and measures, contracts, restitution | N Promote mercy through the family and Church | R Protect inquiry; punish blasphemy | P Justice as defined by God's law | R Punish libel, fraud and obscenity and blasphemy |
 
 ## Species: fields
 
 Each field inherits its domain's four cells. Only the differentiation is shown: a government whose relation changes from the genus (in bold), or a note that sharpens the genus.
+
+### 0. Missions
+
+Divided by: Act in the gathering (Rom 10:14-15). Scope (inward or outward) is an attribute of each field.
+
+| Field | Summary | Differentiation |
+|---|---|---|
+| Sending | Training, commissioning and supporting those sent (Rom 10:15, Acts 13:1-3) | **Self: C** (genus P). Supports and goes when sent. **Family: C** (genus P+C). Households fund and receive missionaries (3 Jn 5-8). |
+| Proclamation | The Gospel preached to unbelievers, open-air and personal (Acts 8:4, Acts 17:17) | Self: Witness and open-air preaching under self-government, unless commissioned by the session. Church: Ordained preaching to the unconverted. |
+| Apologetics | Defending the faith before unbelievers (1 Pet 3:15, Acts 17:22-31) | Church: Equips the saints to answer. Scholarly defense belongs to Scholarship. |
+| Baptizing and receiving | Converts baptized and received into the church (Mt 28:19, Acts 2:41) | Self: Receives baptism on profession. **Family: N** (genus P+C). Brings and presents; does not administer. **Civil: N** (genus R). No authority over admission. |
+| Church planting | New congregations established with elders (Acts 14:23, Titus 1:5) | **Self: C** (genus P). Joins the core of a new work. **Family: C** (genus P+C). Households form the core. |
 
 ### 1. Worship
 
@@ -128,6 +140,12 @@ Fields where a government's relation differs from its domain.
 
 | Domain | Field | Government | Genus | Species |
 |---|---|---|---|---|
+| 0. Missions | Sending | Self | P | C |
+| 0. Missions | Sending | Family | P+C | C |
+| 0. Missions | Baptizing and receiving | Family | P+C | N |
+| 0. Missions | Baptizing and receiving | Civil | R | N |
+| 0. Missions | Church planting | Self | P | C |
+| 0. Missions | Church planting | Family | P+C | C |
 | 1. Worship | Oaths, vows, fasts, thanksgivings | Civil | R | P |
 | 1. Worship | Preaching and hearing | Civil | R | N |
 | 1. Worship | Sacraments | Family | P | N |
