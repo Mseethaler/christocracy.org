@@ -13,10 +13,10 @@ Relation key: **P** principal, **C** constitutive, **R** regulative, **N** none.
 
 | | 1. Worship | 2. Education | 3. Economy | 4. Mercy | 5. Scholarship | 6. Public order | 7. Public culture |
 |---|---|---|---|---|---|---|---|
-| **Self** | P Secret worship and Lord's Day keeping | P+C Diligent learner; teacher by calling | P+C Labor in a calling; have to give | P+C Give from what you have | P+C Think God's thoughts after Him | P+C Self-government, citizenship, office | P+C Make beautiful and true things |
+| **Self** | P Secret worship and Lord's Day keeping | P+C Diligent learner | P+C Productive Labor in a vocation | P+C Give from abundance | P+C Think God's thoughts after Him; seek out what is concelaed; dominate creation | P+C Self-government, citizenship, office | P+C Make the true good and beautiful to glorify God |
 | **Family** | P Household worship led by the head | P+C Parents hold the authority to educate | P+C Household dominion and inheritance | P+C Care for your own first; hospitality | C Raise, fund and send scholars | C Households are the base of the polity | P+C Household song, story and feast |
-| **Church** | P Public worship and the means of grace | P+R Catechize the covenant children; equip fathers | R Teach the ethics of labor; discipline fraud | P The diaconate | P+R Guard doctrine; train ministers | R Prophetic witness; pray for rulers | R Teach truth and beauty; discipline members |
-| **Civil** | R Protect the church; no power of the keys | R Protect parental liberty; nothing more | R Just weights, contracts, restitution | N No jurisdiction | R Protect inquiry; no funding or accreditation | P Justice by God's law | R Punish libel, fraud and obscenity |
+| **Church** | P Public worship in the means of grace | P+R Catechize covenant children; equip fathers | R Teach the ethics of labor; discipline fraud | P The diaconate | P+R Guard doctrine; train ministers; refute error | R Prophetic witness; pray for rulers; discipline members | R Teach truth and beauty and goodness |
+| **Civil** | R Protect and nourish the church; promote the true religion | R Protect parental liberty; promote true education | R Enforce just weights and measures, contracts, restitution | N Promote mercy through the family and Church | R Protect inquiry; punish blasphemy | P Justice as defined by God's law | R Punish libel, fraud and obscenity and blasphemy |
 
 ## Species: fields
 
