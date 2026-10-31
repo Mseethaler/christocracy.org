@@ -1,7 +1,7 @@
 +++
 
 title = 'Sola Scriptura'
-date = 2026-11-01
+date = 2026-10-31
 draft = false
 weight = 1
 
