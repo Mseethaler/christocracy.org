@@ -1,6 +1,7 @@
 +++
+
 title = 'Sola Scriptura'
-date = 2026-11-01T16:31:13-04:00
+date = 2026-11-01
 draft = false
 weight = 1
 
