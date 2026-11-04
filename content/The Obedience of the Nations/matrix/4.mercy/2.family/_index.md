@@ -55,4 +55,4 @@ Family care comes first; the church helps those with no family to help them.
 
 ## Commentary
 
-Distinguish gift from contract: mutual aid (gift) belongs here; risk pools (contract) belong in Economy.
+Gifts are distinguished from contracts: mutual aid (gift) belongs here; risk pools (contract) belong in Economy.

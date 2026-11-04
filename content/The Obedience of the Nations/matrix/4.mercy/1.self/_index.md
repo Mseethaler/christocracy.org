@@ -51,4 +51,5 @@ Mercy does not subsidize sloth.
 
 ## Commentary
 
-To be written.
+God loves a cheerful giver. Giving is according to what one has, not what one
+does not have.

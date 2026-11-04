@@ -13,7 +13,7 @@ weight = 4
 
 ## End
 
-Protect liberty of inquiry within God's law; punish fraud.
+Promote the common good, protect liberty of inquiry within God's law; punish fraud and blasphemy.
 
 ## Means
 
@@ -35,14 +35,15 @@ Magistrates
 
 ## Boundary
 
-No funding, accreditation or established orthodoxy.
+No funding or accreditation.
 
 ## Failure modes
 
-**Neglect:** None noted.
+**Neglect:** Ungodly and destructive heresies or idolatry permitted to be publicly promoted.
 
-**Usurpation:** State accreditation and research funding that capture the agenda.
+**Usurpation:** State accreditation and research funding that usurps inquiry.
 
 ## Commentary
 
-To be written.
+Magistrates ought to protect the pursuit of knowledge, without giving license
+to idolatry or blasphemy.

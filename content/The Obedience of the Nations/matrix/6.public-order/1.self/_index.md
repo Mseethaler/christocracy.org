@@ -41,7 +41,7 @@ The citizen
 
 ## Boundary
 
-The private man does not wield the sword of justice (Rom 12:19).
+The private man does not wield the sword of justice and vengeance. (Rom 12:19).
 
 ## Failure modes
 
@@ -51,4 +51,4 @@ The private man does not wield the sword of justice (Rom 12:19).
 
 ## Commentary
 
-To be written.
+

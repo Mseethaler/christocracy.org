@@ -13,7 +13,7 @@ weight = 4
 
 ## End
 
-Punish libel, fraud and public obscenity as God's law defines them.
+Promotes and encourages the true good and beautiful. Punish libel, fraud and public obscenity as God's law defines them.
 
 ## Means
 
@@ -36,7 +36,7 @@ Magistrates
 
 ## Boundary
 
-No state media, no subsidized art, no licensing of viewpoints.
+No state media, no subsidized art projects.
 
 ## Failure modes
 
@@ -46,4 +46,3 @@ No state media, no subsidized art, no licensing of viewpoints.
 
 ## Commentary
 
-To be written.

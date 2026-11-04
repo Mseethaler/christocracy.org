@@ -53,3 +53,4 @@ Limited to punishing evil as God's law defines it: not savior, educator or provi
 ## Commentary
 
 The fruit of the whole matrix: righteous magistrates come from discipled people.
+Righteous magistrates also enable and encouraged discipleship of the people.

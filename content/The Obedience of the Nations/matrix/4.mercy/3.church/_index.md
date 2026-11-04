@@ -49,4 +49,5 @@ Supplements the family and does not replace it.
 
 ## Commentary
 
-To be written.
+Churches generally run their own diaconal funds, but some instruments for
+specific purposes could be useful under certain conditions.

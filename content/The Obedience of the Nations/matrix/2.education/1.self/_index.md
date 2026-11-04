@@ -50,4 +50,4 @@ While a child, the learner is under parental authority.
 
 ## Commentary
 
-To be written.
+Love the Lord with all your mind.

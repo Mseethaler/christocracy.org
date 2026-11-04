@@ -9,22 +9,23 @@ weight = 4
 
 | Relation | Summary |
 |---|---|
-| R (Regulative) | Protect the liberty of the Gospel; no sword for conversion |
+| R (Regulative) | Protect the liberty of the Gospel; defend missionaries |
 
 ## End
 
-Protect the liberty of preaching and assembly, and restrain violence against those who preach.
+Protect the liberty of preaching and assembly, and restrain violence against those who preach. Suppress heresy.
 
 ## Means
 
 **Direct**
 
-- Protecting open-air preaching and assembly
+- Protecting open-air preaching assembly, and distribution of knowledge
 - Punishing assault on preachers and missionaries
+- Preventing blatant heresy or public false worship
 
 **Instrumental**
 
-None.
+None
 
 ## Agent
 
@@ -36,17 +37,18 @@ Magistrates
 - 1 Tim 2:1-4
 - Acts 19:35-41
 - Acts 22:25-29
+- Ex 20
 
 ## Boundary
 
-May not compel faith or baptism.
+Cannot force conversion
 
 ## Failure modes
 
-**Neglect:** Failing to protect street preachers from mobs or unjust ordinances.
+**Neglect:** Failing to protect preachers from mobs or unjust ordinances.
 
-**Usurpation:** Forced conversion; licensing of preaching; bans on public proclamation.
+**Usurpation:** Forced conversion; licensing of true preaching 
 
 ## Commentary
 
-Open question: your Civil in Worship cell says the magistrate should promote the true religion. Decide whether that extends to positive support of missions (compare Cyrus, Ezra 1:1-4), or stops at protection.
+Magistrate should promote and protect the true religion, and defend missionaries, domestic and foreign, governed by prudence. 

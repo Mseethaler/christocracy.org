@@ -50,4 +50,4 @@ Does not wield the sword or act as a political party.
 
 ## Commentary
 
-To be written.
+

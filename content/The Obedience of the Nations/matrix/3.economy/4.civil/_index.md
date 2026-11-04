@@ -39,14 +39,16 @@ Magistrates and judges
 
 ## Boundary
 
-No authority to redistribute, plan production, debase currency or license trades beyond justice.
+No authority to redistribute, plan production, debase currency or license trades beyond justice. Most government benefits are usurpation.
 
 ## Failure modes
 
 **Neglect:** Failing to punish fraud.
 
-**Usurpation:** Licensing regimes, currency debasement (dishonest weights), confiscatory taxation (1 Sam 8:15-17).
+**Usurpation:** Licensing regimes, currency debasement (dishonest weights), confiscatory and oppressive taxation (1 Sam 8:15-17).
 
 ## Commentary
 
-To be written.
+The government should not be subsidizing sections of the economy, or forcing
+medical insurance or service, or garnishing wages, or social security, or levying property taxes to
+devour widows houses, and so much more.

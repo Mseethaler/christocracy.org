@@ -28,6 +28,7 @@ Bear witness to Christ before unbelievers, in word and life, as occasion and cal
 
 - Street ministry teams
 - Supporting and joining missions
+- Living virtuously
 
 ## Agent
 
@@ -42,14 +43,15 @@ The believer
 
 ## Boundary
 
-Does not administer the sacraments or exercise church office. Public preaching beyond private witness is best done under the oversight of his session.
+Does not administer the sacraments or exercise church office. Public preaching beyond private witness is best done under the oversight of eldership.
 
 ## Failure modes
 
-**Neglect:** Silence before unbelievers; witness left to professionals.
+**Neglect:** Silence before unbelievers; witness left to officers only.
 
 **Usurpation:** Self-appointed evangelists acting as churches; baptizing outside the church.
 
 ## Commentary
 
-The Herald function sits in this cell. Street evangelism is self-government unless the session commissions it.
+
+Evangelism is a task given to every believer; but to only a few as a primary vocation, the calling of an evangelists, ordained and ministered through legitimate churches. 

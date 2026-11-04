@@ -42,10 +42,12 @@ Does not dictate method in disciplines beyond what Scripture teaches.
 
 ## Failure modes
 
-**Neglect:** Seminaries independent of any church, drifting.
+**Neglect:** Seminaries independent of any church, drifting doctrinally.
 
 **Usurpation:** Clerical control of all inquiry.
 
 ## Commentary
 
-To be written.
+The Church should be directly and indirectly instrumental in the defense and
+pursuit of higher learning, specifically with regard to the deeper understanding
+and defense of the faith.

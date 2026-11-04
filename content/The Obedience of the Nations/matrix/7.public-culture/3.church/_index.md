@@ -47,4 +47,3 @@ Does not run media enterprises or censor beyond its own members.
 
 ## Commentary
 
-To be written.

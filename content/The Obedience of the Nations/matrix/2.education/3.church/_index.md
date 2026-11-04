@@ -39,7 +39,7 @@ Ministers and elders
 
 ## Boundary
 
-Does not take over the family's authority to school its children.
+Does not take over the family's responsibility to school its children; but supports parents in a variety of ways.
 
 ## Failure modes
 
@@ -49,4 +49,8 @@ Does not take over the family's authority to school its children.
 
 ## Commentary
 
-Open question: parish schools run by a church have a long Reformed history. This map treats schools as family instruments; decide whether church-run schools are a legitimate alternative or a usurpation.
+Parent's are commanded to bring up their children in the nurture and admonition
+of the Lord; they are the principle. Being said, parents may use other
+instruments, and churches may used as an
+instrument of the parents, as in the case of a parish school. But the
+responsibility falls primarily on the parents. 

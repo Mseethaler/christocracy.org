@@ -44,14 +44,14 @@ Ministers, elders and presbyteries
 
 ## Boundary
 
-No sword for conversion. Missions must issue in churches with elders, not independent works accountable to no church.
+Missions issue from churches with elders, not independent works accountable no church.
 
 ## Failure modes
 
-**Neglect:** A church turned only inward; missions handed to parachurch agencies with no church accountability.
+**Neglect:** Churches failing to fund and send missionaries.
 
-**Usurpation:** Seeking civil coercion for conversion.
+**Usurpation:** Missionaries operating outside of church oversight or accountability.
 
 ## Commentary
 
-Parachurch mission agencies belong here only as instruments, with the church as principal.
+Parachurch mission agencies belong only as instruments, with the church as principal.

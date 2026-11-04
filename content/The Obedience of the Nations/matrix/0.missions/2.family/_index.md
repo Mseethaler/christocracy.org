@@ -46,10 +46,14 @@ Does not administer the sacraments or ordain.
 
 ## Failure modes
 
-**Neglect:** Households with no witness to their neighbors; missions treated as a line in the church budget.
+**Neglect:** Households with no witness to their neighbors.
 
-**Usurpation:** The household standing in for the church.
+**Usurpation:** The household operation outside of the church.
 
 ## Commentary
 
-Covenant children are not objects of missions but of catechesis, which belongs to Education.
+Covenant children are not objects of missions but of catechesis, which belongs to Education. Missions are primarily supported through the tithe; families tithe to the church first, and the church funds missionaries. Above and beyond giving to missionaries can be virtuous if the family has the means, but if not, missionaries should not ask common families for support, and seek financial support from churches or associations.
+
+If a missionary is not able to be fully funded, they should be bi-vocation, and
+not live off the substance of others, who are equally striving for the liberty
+to evangelize.

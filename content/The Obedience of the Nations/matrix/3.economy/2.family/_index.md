@@ -37,7 +37,8 @@ Household dominion: property, provision and inheritance across generations.
 
 ## Agent
 
-Head of household
+Head of household direct the capital and labor of the house in accordance with
+gifts and opportunity.
 
 ## Norm
 
@@ -55,8 +56,9 @@ Household enterprise must deal justly with employees' own households.
 
 **Neglect:** Consumer households with no productive property and no inheritance.
 
-**Usurpation:** Exploiting neighbors; favoring kin over justice.
+**Usurpation:** dealing unjustly with neighbors.
 
 ## Commentary
 
-Legal check: risk pools touch insurance law and capital pools touch securities law. Clear both before launch.
+The household is the base unit of the polis, and the principle of productive
+labor and dominion.

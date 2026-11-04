@@ -9,7 +9,7 @@ weight = 1
 
 | Relation | Summary |
 |---|---|
-| P+C (Principal + Constitutive) | Think God's thoughts after Him; seek out what is concelaed; dominate creation |
+| P+C (Principal + Constitutive) | Think God's thoughts after Him; seek out what is concelaed; excell in vocation |
 
 ## End
 
@@ -50,4 +50,4 @@ The scholar remains under Scripture, his church and his household duties.
 
 ## Commentary
 
-To be written.
+Love the Lord with all your mind.

@@ -54,4 +54,3 @@ Patronage directs through ownership and support, not through control of the arti
 
 ## Commentary
 
-To be written.

@@ -43,7 +43,7 @@ Ministers and elders
 
 ## Boundary
 
-Worship is regulated by Scripture; the church may not bind conscience beyond the Word or take up the sword.
+Worship is regulated by Scripture; the church may not bind conscience beyond the Word.
 
 ## Failure modes
 

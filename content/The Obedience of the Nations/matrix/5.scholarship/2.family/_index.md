@@ -31,7 +31,7 @@ Raise and fund scholars; keep a household culture of learning.
 
 ## Agent
 
-Head of household
+Head of household and members
 
 ## Norm
 
@@ -50,4 +50,4 @@ Directs an academy through its charter and trustees, not by interfering in its d
 
 ## Commentary
 
-To be written.
+Families ought to support and pursue higher learning as time and gifts allow. 

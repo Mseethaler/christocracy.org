@@ -54,4 +54,5 @@ A calling does not override duties to family or the Lord's Day.
 
 ## Commentary
 
-To be written.
+Work hard, support yourself, so you can support others. Do not be a burden on
+your neighbor from sloth.

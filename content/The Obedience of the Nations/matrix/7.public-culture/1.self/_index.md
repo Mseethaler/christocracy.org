@@ -30,7 +30,7 @@ Create and steward beauty and truth through craft.
 
 ## Agent
 
-The artist and maker
+The artist and maker, especially nobility
 
 ## Norm
 
@@ -46,8 +46,7 @@ Artistic liberty remains under God's law.
 
 **Neglect:** Consuming without making.
 
-**Usurpation:** Art as autonomous self-expression; idolatry.
+**Usurpation:** Art as autonomous self-expression; idolatry, degeneracy.
 
 ## Commentary
 
-To be written.

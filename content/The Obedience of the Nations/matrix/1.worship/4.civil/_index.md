@@ -48,4 +48,5 @@ May not administer Word or sacraments, exercise the keys, or compel faith.
 
 ## Commentary
 
-Open question: the scope of the magistrate's duty toward the first table. The original WCF 23.3 and the American revision answer differently; settle which position this map holds.
+The Magistrate enforces the entire law of God, as is prudent for the common
+good, upholding the good and punishing the evil as the deacon of God.

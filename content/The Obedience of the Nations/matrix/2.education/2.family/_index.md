@@ -44,14 +44,14 @@ Father and mother, the father as head
 
 ## Boundary
 
-Delegation is not abdication: parents may delegate instruction but not surrender authority.
+Parents may delegate instruction but not surrender authority and responsibility.
 
 ## Failure modes
 
-**Neglect:** Children handed to state schools; parents acting as customers of a school.
+**Neglect:** Children handed to godless schools; parents acting as customers of a school.
 
 **Usurpation:** Refusing the church's catechetical role.
 
 ## Commentary
 
-The decisive cell for degree 2. A school is the family's instrument, so its charter should name parents as principal.
+The decisive cell for degree 2. A school is the family's instrument (primarily), so its charter should name parents as principal.

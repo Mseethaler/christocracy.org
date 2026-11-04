@@ -30,7 +30,7 @@ Form the polity from households: train sons for office and defend the home.
 
 ## Agent
 
-Head of household
+Head of household and members
 
 ## Norm
 
@@ -49,4 +49,4 @@ The family does not execute civil justice.
 
 ## Commentary
 
-Reformation by discipleship: the placing of righteous men and policies, not a parallel state.
+Reformation by discipleship: the placing of righteous men and policies.

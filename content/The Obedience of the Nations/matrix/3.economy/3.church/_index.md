@@ -13,7 +13,7 @@ weight = 3
 
 ## End
 
-Teach the ethics of labor, property, wages, debt and lending; settle disputes and discipline fraud among members.
+Teach the ethics of labor, property, wages, debt and lending; settle disputes and discipline fraud among members. Employees officers.
 
 ## Means
 
@@ -30,7 +30,7 @@ None.
 
 ## Agent
 
-Elders
+Elders and deacons.
 
 ## Norm
 
@@ -45,10 +45,10 @@ Does not run businesses, set prices or act as an employment bureau.
 
 ## Failure modes
 
-**Neglect:** Silence on work and money; the prosperity gospel.
+**Neglect:** Silence on work and money; the poverty or prosperity gospel.
 
 **Usurpation:** Church-owned commerce; membership used as a marketplace.
 
 ## Commentary
 
-This row keeps a guild from becoming a mere trade union.
+The tithes of the members goes towards employing church officers. 
