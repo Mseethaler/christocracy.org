@@ -220,7 +220,7 @@ principle directs it.
 This is a normative matrix, to be used to map present capital and diagnose
 areas of necessary allocation.
 
-## 6. The confederacy
+## 6. The Confederacy
 
 The confederacy is a covenanted union of free, self-governing members (persons, households, congregations or civic governments), each keeps its own government. It is the bond of covenantal love running through all.
 
